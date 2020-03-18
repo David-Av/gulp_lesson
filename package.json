@@ -1,0 +1,22 @@
+{
+  "name": "gulp_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Av/gulp_lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Av/gulp_lesson/issues"
+  },
+  "homepage": "https://github.com/David-Av/gulp_lesson#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
